@@ -6,21 +6,16 @@
     <description>Recent content on TechGlobetrotter</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Apr 2025 01:16:56 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 02:20:36 +1000</lastBuildDate>
     <atom:link href="https://www.techglobetrotter.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Test</title>
-      <link>https://www.techglobetrotter.com/posts/about-test/</link>
-      <pubDate>Mon, 21 Apr 2025 01:16:56 +1000</pubDate>
-      <guid>https://www.techglobetrotter.com/posts/about-test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Howto</title>
-      <link>https://www.techglobetrotter.com/posts/my-first-howto/</link>
-      <pubDate>Sun, 20 Apr 2025 22:10:43 +1000</pubDate>
-      <guid>https://www.techglobetrotter.com/posts/my-first-howto/</guid>
-      <description></description>
+      <title>About</title>
+      <link>https://www.techglobetrotter.com/about/</link>
+      <pubDate>Mon, 21 Apr 2025 02:20:36 +1000</pubDate>
+      <guid>https://www.techglobetrotter.com/about/</guid>
+      <description>&lt;h2 id=&#34;-hello-im-viswanath--a-tech-explorer-with-a-purpose&#34;&gt;👋 Hello, I&amp;rsquo;m Viswanath — a Tech Explorer with a Purpose&lt;/h2&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;TechGlobetrotter&lt;/strong&gt; — a personal space where I document real-world, hands-on technical content shaped by years of experience across IT, cloud, and DevOps.&lt;/p&gt;
+&lt;p&gt;With over &lt;strong&gt;17 years in IT&lt;/strong&gt; and having started my journey deep in the Linux trenches, I&amp;rsquo;ve since transitioned into building and managing complex cloud-native environments. I&amp;rsquo;ve been working with &lt;strong&gt;AWS since 2016&lt;/strong&gt;, and specialize in &lt;strong&gt;Amazon EKS&lt;/strong&gt;, &lt;strong&gt;infrastructure automation&lt;/strong&gt;, and &lt;strong&gt;container orchestration at scale&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>

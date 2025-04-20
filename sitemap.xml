@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.techglobetrotter.com/posts/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.techglobetrotter.com/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.techglobetrotter.com/posts/about-test/</loc>
-    <lastmod>2025-04-21T01:16:56+10:00</lastmod>
-  </url><url>
-    <loc>https://www.techglobetrotter.com/posts/</loc>
-    <lastmod>2025-04-21T01:16:56+10:00</lastmod>
-  </url><url>
-    <loc>https://www.techglobetrotter.com/posts/my-first-howto/</loc>
-    <lastmod>2025-04-20T22:10:43+10:00</lastmod>
+    <loc>https://www.techglobetrotter.com/about/</loc>
+    <lastmod>2025-04-21T02:20:36+10:00</lastmod>
   </url><url>
     <loc>https://www.techglobetrotter.com/posts/my-first-post/</loc>
     <lastmod>2025-04-20T19:06:03+10:00</lastmod>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>TechGlobeTrotter</title>
     <link>https://www.techglobetrotter.com/</link>
-    <description>My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on TechGlobeTrotter</description>
+    <generator>Hugo -- 0.146.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 22:10:43 +1000</lastBuildDate>
-    
+    <lastBuildDate>Sun, 20 Apr 2025 23:41:17 +1000</lastBuildDate>
     <atom:link href="https://www.techglobetrotter.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <item>
+      <title>About</title>
+      <link>https://www.techglobetrotter.com/about/</link>
+      <pubDate>Sun, 20 Apr 2025 23:41:17 +1000</pubDate>
+      <guid>https://www.techglobetrotter.com/about/</guid>
+      <description>&lt;h2 id=&#34;hello-welcome-to-my-site&#34;&gt;Hello!, Welcome to my site.&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>My First Howto</title>
       <link>https://www.techglobetrotter.com/posts/my-first-howto/</link>
       <pubDate>Sun, 20 Apr 2025 22:10:43 +1000</pubDate>
-      
       <guid>https://www.techglobetrotter.com/posts/my-first-howto/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>My First Post</title>
       <link>https://www.techglobetrotter.com/posts/my-first-post/</link>
       <pubDate>Sun, 20 Apr 2025 19:06:03 +1000</pubDate>
-      
       <guid>https://www.techglobetrotter.com/posts/my-first-post/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

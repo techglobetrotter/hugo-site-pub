@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on TechGlobetrotter</title>
-    <link>https://www.techglobetrotter.com/posts/</link>
-    <description>Recent content in Posts on TechGlobetrotter</description>
+    <title>AWS on TechGlobetrotter</title>
+    <link>https://www.techglobetrotter.com/categories/aws/</link>
+    <description>Recent content in AWS on TechGlobetrotter</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.techglobetrotter.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.techglobetrotter.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Auto-Scale with Karpenter</title>
       <link>https://www.techglobetrotter.com/posts/how-to-auto-scale-with-karpenter/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www.techglobetrotter.com/posts/how-to-auto-scale-with-karpenter/</guid>
       <description>&lt;p&gt;This is a sample post that tests taxonomy features like tags and categories.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://www.techglobetrotter.com/posts/my-first-post/</link>
-      <pubDate>Sun, 20 Apr 2025 19:06:03 +1000</pubDate>
-      <guid>https://www.techglobetrotter.com/posts/my-first-post/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

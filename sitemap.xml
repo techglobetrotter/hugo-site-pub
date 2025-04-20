@@ -2,7 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.techglobetrotter.com/tags/autoscaling/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.techglobetrotter.com/categories/aws/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.techglobetrotter.com/categories/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.techglobetrotter.com/tags/eks/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.techglobetrotter.com/posts/how-to-auto-scale-with-karpenter/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.techglobetrotter.com/tags/karpenter/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.techglobetrotter.com/categories/kubernetes/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.techglobetrotter.com/posts/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.techglobetrotter.com/tags/</loc>
     <lastmod>2025-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.techglobetrotter.com/</loc>
@@ -14,10 +38,6 @@
     <loc>https://www.techglobetrotter.com/posts/my-first-post/</loc>
     <lastmod>2025-04-20T19:06:03+10:00</lastmod>
   </url><url>
-    <loc>https://www.techglobetrotter.com/categories/</loc>
-  </url><url>
     <loc>https://www.techglobetrotter.com/series/</loc>
-  </url><url>
-    <loc>https://www.techglobetrotter.com/tags/</loc>
   </url>
 </urlset>

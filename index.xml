@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TechGlobeTrotter</title>
+    <title>TechGlobetrotter</title>
     <link>https://www.techglobetrotter.com/</link>
-    <description>Recent content on TechGlobeTrotter</description>
+    <description>Recent content on TechGlobetrotter</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Apr 2025 23:41:17 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 01:16:56 +1000</lastBuildDate>
     <atom:link href="https://www.techglobetrotter.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://www.techglobetrotter.com/about/</link>
-      <pubDate>Sun, 20 Apr 2025 23:41:17 +1000</pubDate>
-      <guid>https://www.techglobetrotter.com/about/</guid>
-      <description>&lt;h2 id=&#34;hello-welcome-to-my-site&#34;&gt;Hello!, Welcome to my site.&lt;/h2&gt;</description>
+      <title>About Test</title>
+      <link>https://www.techglobetrotter.com/posts/about-test/</link>
+      <pubDate>Mon, 21 Apr 2025 01:16:56 +1000</pubDate>
+      <guid>https://www.techglobetrotter.com/posts/about-test/</guid>
+      <description></description>
     </item>
     <item>
       <title>My First Howto</title>

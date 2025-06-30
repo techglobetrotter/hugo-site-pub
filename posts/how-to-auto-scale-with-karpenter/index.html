@@ -261,34 +261,51 @@ In this video, I&rsquo;ll walk you through the process of setting up Karpenter f
   
     <div class="github-comments">
       <h2>Comments</h2>
-      <p>Comments are powered by <a href="https://github.com/techglobetrotter/hugo-site-pub/discussions" target="_blank" rel="noopener">GitHub Discussions</a>.</p>
-      <p>To leave a comment, <a href="https://github.com/techglobetrotter/hugo-site-pub/discussions/new?category=general&title=Comment on: how-to-auto-scale-with-karpenter" target="_blank" rel="noopener">create a new discussion</a> with the post title.</p>
+      <p>Join the discussion on GitHub! This post's comments are powered by <a href="https://github.com/techglobetrotter/hugo-site-pub/discussions" target="_blank" rel="noopener">GitHub Discussions</a>.</p>
       
+      <div class="comment-cta">
+        <a href="https://github.com/techglobetrotter/hugo-site-pub/discussions/new?category=general&title=Comment on: how-to-auto-scale-with-karpenter" 
+           class="comment-button" 
+           target="_blank" 
+           rel="noopener">
+          💬 Leave a Comment on GitHub
+        </a>
+        <p class="comment-note">
+          <small>You'll need a GitHub account to comment. Comments are moderated.</small>
+        </p>
+      </div>
       
-      <script>
-        
-        if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
-          (function() {
-            const script = document.createElement('script');
-            script.src = 'https://giscus.app/client.js';
-            script.setAttribute('data-repo', 'techglobetrotter\/hugo-site-pub');
-            script.setAttribute('data-repo-id', '969437229');
-            script.setAttribute('data-category', 'General');
-            script.setAttribute('data-category-id', 'DIC_kwDOJz7Q4s4Cb4p1');
-            script.setAttribute('data-mapping', 'title');
-            script.setAttribute('data-reactions-enabled', '1');
-            script.setAttribute('data-emit-metadata', '0');
-            script.setAttribute('data-theme', 'preferred_color_scheme');
-            script.setAttribute('data-lang', 'en');
-            script.crossOrigin = 'anonymous';
-            script.async = true;
-            document.querySelector('.github-comments').appendChild(script);
-          })();
-        } else {
-          console.log('Giscus comments are disabled in development mode');
-        }
-      </script>
     </div>
+    
+    <style>
+      .comment-cta {
+        margin: 1.5rem 0;
+        padding: 1.5rem;
+        background: var(--code-bg);
+        border-radius: 8px;
+        text-align: center;
+      }
+      
+      .comment-button {
+        display: inline-block;
+        padding: 0.8rem 1.5rem;
+        background: #2da44e;
+        color: white !important;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: 600;
+        transition: background-color 0.2s;
+      }
+      
+      .comment-button:hover {
+        background: #2c974b;
+      }
+      
+      .comment-note {
+        margin-top: 0.8rem;
+        color: var(--secondary);
+      }
+    </style>
   
 
 

@@ -15,6 +15,7 @@
       <guid>https://www.techglobetrotter.com/posts/how-to-auto-scale-with-karpenter/</guid>
       <description>&lt;p&gt;This is a sample post that tests taxonomy features like tags and categories.&lt;/p&gt;
 &lt;h2 id=&#34;video-walkthrough&#34;&gt;Video Walkthrough&lt;/h2&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;p&gt;In this video, I&amp;rsquo;ll walk you through the process of setting up Karpenter for auto-scaling in your EKS cluster.&lt;/p&gt;</description>
     </item>
   </channel>
